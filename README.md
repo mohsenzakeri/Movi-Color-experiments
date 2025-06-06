@@ -1,5 +1,6 @@
 # Movi-in-Color-experiments
 
+This repository contains the scripts to build the datasets for evaluating [Movi Color](https://github.com/mohsenzakeri/Movi/releases/tag/v1.2.0) as described in the preprint: [Movi Color: fast and accurate long-read classification with the move structure](https://www.biorxiv.org/content/10.1101/2025.05.22.655637v1.abstract).
 
 ## Building the 48-species dataset
 
